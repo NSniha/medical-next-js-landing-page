@@ -1,9 +1,21 @@
-<div> <h1>Medical Landing Page</h1> <p><b>A modern website for clinics and healthcare providers.</b><br> Present your services clearly, build patient trust, and make it easy to get in touch.</p> <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,vercel&perline=5" alt="Next.js, React, Tailwind CSS, JavaScript, Vercel" />
-<br><br>
-<a href="https://medical-next-js-landing-page.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-Visit_Site-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a> <a href="https://github.com/NSniha/medical-next-js-landing-page/issues"><img src="https://img.shields.io/badge/Report-Issue-D73A49?style=for-the-badge&logo=github&logoColor=white" alt="Report an issue" /></a>
-
-## Preview
-<img width="1280" height="800" alt="preview" src="https://github.com/user-attachments/assets/647ba420-5d86-4cf8-9034-287c4bd8a1b6" />
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:14B8A6&height=200&section=header&text=Medical%20Landing%20Page&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=A%20modern%20website%20for%20clinics%20and%20healthcare%20providers&descSize=18&descAlignY=60" alt="Medical Landing Page" width="100%" />
+<a href="https://medical-next-js-landing-page.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=0EA5E9&center=true&vCenter=true&width=640&height=40&lines=Clear+services%2C+trusted+first+impression;Responsive+on+every+screen+size;Smooth+animations+with+Motion;Built+with+Next.js+16+%26+React+19" alt="Animated feature highlights" />
+</a>
+<br />
+<a href="https://medical-next-js-landing-page.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-Visit_Site-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+<a href="https://github.com/NSniha/medical-next-js-landing-page/issues"><img src="https://img.shields.io/badge/Report-Issue-14B8A6?style=for-the-badge&logo=github&logoColor=white" alt="Report an issue" /></a>
+<a href="https://github.com/NSniha/medical-next-js-landing-page/stargazers"><img src="https://img.shields.io/github/stars/NSniha/medical-next-js-landing-page?style=for-the-badge&logo=github&color=0F172A" alt="GitHub stars" /></a>
+ 
+<br /><br />
+ 
+<a href="https://medical-next-js-landing-page.vercel.app">
+  <img width="1280" height="800" alt="Medical Landing Page preview" src="https://github.com/user-attachments/assets/647ba420-5d86-4cf8-9034-287c4bd8a1b6" />
+</a>
+<br /><br />
+ 
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,vercel&perline=5" alt="Next.js, React, Tailwind CSS, JavaScript, Vercel" />
 </div>
 
 ---
