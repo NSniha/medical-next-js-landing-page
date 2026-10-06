@@ -1,4 +1,4 @@
-<div align="center"> <h1>Medical Landing Page</h1> <p><b>A modern website for clinics and healthcare providers.</b><br> Present your services clearly, build patient trust, and make it easy to get in touch.</p> <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,vercel&perline=5" alt="Next.js, React, Tailwind CSS, JavaScript, Vercel" />
+<div> <h1>Medical Landing Page</h1> <p><b>A modern website for clinics and healthcare providers.</b><br> Present your services clearly, build patient trust, and make it easy to get in touch.</p> <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,vercel&perline=5" alt="Next.js, React, Tailwind CSS, JavaScript, Vercel" />
 
 <br><br>
 
