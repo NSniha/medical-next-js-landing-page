@@ -33,17 +33,55 @@ The project is a static front end with no backend or database required, which ke
 - **One-click deployment:** ready to deploy on Vercel
 
 ## Tech Stack
-
-| Category     | Technology                                      |
-|--------------|-------------------------------------------------|
-| Framework    | [Next.js 16](https://nextjs.org)                |
-| UI Library   | [React 19](https://react.dev)                   |
-| Styling      | [Tailwind CSS 4](https://tailwindcss.com) with PostCSS |
-| Animation    | [Motion](https://motion.dev)                    |
-| Icons        | [Lucide React](https://lucide.dev)              |
-| Language     | JavaScript (ES6+)                               |
-| Linting      | [ESLint 9](https://eslint.org)                  |
-| Hosting      | [Vercel](https://vercel.com)                    |
+ 
+Built with a modern, lightweight front-end toolchain. No backend or database required.
+ 
+<table>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs" width="56" alt="Next.js" /></a><br />
+      <b>Next.js 16</b><br />
+      <sub>Framework</sub>
+    </td>
+    <td align="center" width="140">
+      <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" width="56" alt="React" /></a><br />
+      <b>React 19</b><br />
+      <sub>UI library</sub>
+    </td>
+    <td align="center" width="140">
+      <a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" width="56" alt="Tailwind CSS" /></a><br />
+      <b>Tailwind CSS 4</b><br />
+      <sub>Styling</sub>
+    </td>
+    <td align="center" width="140">
+      <a href="https://motion.dev"><img src="https://cdn.simpleicons.org/framer/0055FF" width="48" height="56" alt="Motion" /></a><br />
+      <b>Motion</b><br />
+      <sub>Animations</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://lucide.dev"><img src="https://cdn.simpleicons.org/lucide/F56565" width="48" height="56" alt="Lucide" /></a><br />
+      <b>Lucide React</b><br />
+      <sub>Icons</sub>
+    </td>
+    <td align="center" width="140">
+      <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="56" alt="JavaScript" /></a><br />
+      <b>JavaScript</b><br />
+      <sub>Language</sub>
+    </td>
+    <td align="center" width="140">
+      <a href="https://eslint.org"><img src="https://skillicons.dev/icons?i=eslint" width="56" alt="ESLint" /></a><br />
+      <b>ESLint 9</b><br />
+      <sub>Code quality</sub>
+    </td>
+    <td align="center" width="140">
+      <a href="https://vercel.com"><img src="https://skillicons.dev/icons?i=vercel" width="56" alt="Vercel" /></a><br />
+      <b>Vercel</b><br />
+      <sub>Hosting</sub>
+    </td>
+  </tr>
+</table>
 
 ## Getting Started
 
