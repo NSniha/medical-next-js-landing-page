@@ -1,18 +1,12 @@
-<div>
+<div align="center"> <h1>Medical Landing Page</h1> <p><b>A modern website for clinics and healthcare providers.</b><br> Present your services clearly, build patient trust, and make it easy to get in touch.</p> <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,vercel&perline=5" alt="Next.js, React, Tailwind CSS, JavaScript, Vercel" />
 
-# Medical Landing Page
+<br><br>
 
-A fast, responsive and accessible landing page for clinics and healthcare providers, built with Next.js 16, React 19 and Tailwind CSS 4.
+<a href="https://medical-next-js-landing-page.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-Visit_Site-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a> <a href="https://github.com/NSniha/medical-next-js-landing-page/issues"><img src="https://img.shields.io/badge/Report-Issue-D73A49?style=for-the-badge&logo=github&logoColor=white" alt="Report an issue" /></a>
 
-![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=nextdotjs)
-![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
-![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-black?logo=vercel)
+<br><br>
 
-[Live Demo](https://medical-next-js-landing-page.vercel.app) ·
-[Report a Bug](https://github.com/NSniha/medical-next-js-landing-page/issues) ·
-[Request a Feature](https://github.com/NSniha/medical-next-js-landing-page/issues)
+<img src="https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 16" /> <img src="https://img.shields.io/badge/React-19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" /> <img src="https://img.shields.io/badge/Tailwind_CSS-4-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS 4" /> <img src="https://img.shields.io/badge/Motion-Animations-FF0055?style=flat-square&logo=framer&logoColor=white" alt="Motion" /> <img src="https://img.shields.io/badge/Responsive-Mobile_to_Desktop-16A34A?style=flat-square" alt="Responsive" /> </div>
 
 </div>
 
