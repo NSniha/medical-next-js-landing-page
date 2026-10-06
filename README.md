@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # Medical Landing Page
 
@@ -32,8 +32,6 @@ The project is a static front end with no backend or database required, which ke
 
 ## Preview
 <img width="1280" height="800" alt="preview" src="https://github.com/user-attachments/assets/647ba420-5d86-4cf8-9034-287c4bd8a1b6" />
-
-> Live version: [medical-next-js-landing-page.vercel.app](https://medical-next-js-landing-page.vercel.app)
 
 ## Features
 
