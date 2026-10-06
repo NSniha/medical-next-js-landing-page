@@ -1,6 +1,6 @@
 <div> <h1>Medical Landing Page</h1> <p><b>A modern website for clinics and healthcare providers.</b><br> Present your services clearly, build patient trust, and make it easy to get in touch.</p> <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,vercel&perline=5" alt="Next.js, React, Tailwind CSS, JavaScript, Vercel" />
 
-<br><br>
+<br>
 <a href="https://medical-next-js-landing-page.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-Visit_Site-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a> <a href="https://github.com/NSniha/medical-next-js-landing-page/issues"><img src="https://img.shields.io/badge/Report-Issue-D73A49?style=for-the-badge&logo=github&logoColor=white" alt="Report an issue" /></a>
 
 ## Preview
