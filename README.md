@@ -18,22 +18,6 @@ A fast, responsive and accessible landing page for clinics and healthcare provid
 
 ---
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Preview](#preview)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [Available Scripts](#available-scripts)
-- [Project Structure](#project-structure)
-- [Customization](#customization)
-- [Deployment](#deployment)
-- [Browser Support](#browser-support)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [Author](#author)
-
 ## Overview
 
 **Medical Landing Page** is a front-end website template designed for clinics, hospitals, diagnostic centers and individual healthcare practitioners. It presents services and key information in a clean, trustworthy layout, helping visitors understand what a practice offers and how to get in touch.
@@ -47,8 +31,7 @@ The project is a static front end with no backend or database required, which ke
 - Students learning how to structure and animate a real-world landing page
 
 ## Preview
-
-![Medical Landing Page preview](public/images/preview.png)
+<img width="1280" height="800" alt="preview" src="https://github.com/user-attachments/assets/647ba420-5d86-4cf8-9034-287c4bd8a1b6" />
 
 > Live version: [medical-next-js-landing-page.vercel.app](https://medical-next-js-landing-page.vercel.app)
 
