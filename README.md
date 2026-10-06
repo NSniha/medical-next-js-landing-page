@@ -1,9 +1,11 @@
 <div align="center"> <h1>Medical Landing Page</h1> <p><b>A modern website for clinics and healthcare providers.</b><br> Present your services clearly, build patient trust, and make it easy to get in touch.</p> <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,vercel&perline=5" alt="Next.js, React, Tailwind CSS, JavaScript, Vercel" />
 
-<br>
+<br><br>
 
 <a href="https://medical-next-js-landing-page.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-Visit_Site-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a> <a href="https://github.com/NSniha/medical-next-js-landing-page/issues"><img src="https://img.shields.io/badge/Report-Issue-D73A49?style=for-the-badge&logo=github&logoColor=white" alt="Report an issue" /></a>
 
+## Preview
+<img width="1280" height="800" alt="preview" src="https://github.com/user-attachments/assets/647ba420-5d86-4cf8-9034-287c4bd8a1b6" />
 </div>
 
 ---
@@ -20,8 +22,6 @@ The project is a static front end with no backend or database required, which ke
 - Developers who want a modern Next.js and Tailwind starter for a medical website
 - Students learning how to structure and animate a real-world landing page
 
-## Preview
-<img width="1280" height="800" alt="preview" src="https://github.com/user-attachments/assets/647ba420-5d86-4cf8-9034-287c4bd8a1b6" />
 
 ## Features
 
